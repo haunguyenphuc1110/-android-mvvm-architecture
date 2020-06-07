@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MVVMSampleApp</string>
+    <string name="email_label">hau@gmail.com</string>
+    <string name="password_label">password</string>
+    <string name="forget_password_label">Forget Password?</string>
+    <string name="sign_in_label">Sign In</string>
+    <string name="description">architect your app with</string>
+    <string name="title">MVVM</string>
+    <string name="sign_up_description">Don\'t have an account?\nSign Up Here</string>
+    <string name="logo_image">logo image</string>
+    <string name="sign_in_description">Already have an account?\nSign in Here</string>
+    <string name="name_label">Hau Nguyen</string>
+    <string name="confirm_password_label">confirm password</string>
+    <string name="sign_up_label">Sign Up</string>
 </resources>
